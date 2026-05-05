@@ -1,4 +1,3 @@
-````md
 # Image Processor
 
 `image_processor` — консольное C++ приложение для обработки BMP-изображений.
